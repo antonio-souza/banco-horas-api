@@ -1,2 +1,2 @@
 # banco-horas-api
- API de um Banco de Horas (Java EE, DDD, Seguranca)
+ API de um Banco de Horas (Java EE, DDD, Seguranca, JasperReports)
